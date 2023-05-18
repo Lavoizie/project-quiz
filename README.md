@@ -1,2 +1,2 @@
 # project quiz
- Quiz de perguntas e resposatas validando respostas corretas
+ Quiz de perguntas e respostas validando respostas corretas
